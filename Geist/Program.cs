@@ -6,6 +6,7 @@ Console.WriteLine("| O |");
 Console.WriteLine("|   |");
 Console.WriteLine("'~~~'");
 
+Console.WriteLine("");
 Console.WriteLine("Aufgabe 2");
 string Vorname = "Nihat";
 string Nachname = " Artan";
@@ -17,6 +18,7 @@ Console.WriteLine("Der Name des Geistes lautet {0}", Vorname + Nachname);
 Console.WriteLine("Der Geiist wohnt in {0} und die Postleitzahl lautet {1}", Wohnort, Postleitzahl);
 Console.WriteLine("Und der Geist ist {0} Jahre alt", Alter);
 
+Console.WriteLine("");
 Console.WriteLine("Aufgabe 3");
 string Vorname1;
 string Alter1;
